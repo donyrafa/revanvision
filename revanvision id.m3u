@@ -901,6 +901,12 @@ https://dash2.antik.sk/stream/nvidia_markiza/playlist_cenc.mpd
 
 ####################### COPA AMERICA 2024 ##############################
 
+#EXTINF:-1 tvg-logo="https://media1.giphy.com/media/huI8fSKODjJyOPKvZz/giphy.webp?cid=6c09b9524ux4cmmv0pm2gvrw8yvwb0mh0h6fnerazqq50xgo&ep=v1_internal_gif_by_id&rid=giphy.webp&ct=s" group-title="COPA AMERICA 2024", VIDIO
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1719300315~acl=/live/205/*~id=158032163~hmac=d299d8d3511670b55504e80e04616c0329d74882115bd25a92d5ef810006cbc1
+
+
 #EXTINF:-1 tvg-id="425.stations.xmltv.tvmedia.ca" tvg-name="RPC (PA)(R)" tvg-logo="https://seeklogo.com/images/R/rpc-television-panama-logo-80CBBDFD41-seeklogo.com.png" group-title="COPA AMERICA 2024",RPC 
 http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
 
