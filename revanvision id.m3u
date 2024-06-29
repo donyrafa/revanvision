@@ -23,8 +23,12 @@ https://flv.intechmedia.net/live/ch108.m3u8
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
 https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 
+#EXTINF:-1 group-title="NASIONAL" tvg-id="metrotv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/MetroTV_2000.svg/revision/latest/scale-to-width-down/284?cb=20180224092515",metro tv (H) 
+#EXTVLCOPT:http-user-agent=www.home.tv(Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/16
 
-#EXTINF:-1 tvg-id="METROTV" group-title="NASIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/MetroTV_2000.svg/revision/latest/scale-to-width-down/284?cb=20180224092515",METROTV
+
+EXTINF:-1 tvg-id="METROTV" group-title="NASIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/MetroTV_2000.svg/revision/latest/scale-to-width-down/284?cb=20180224092515",METROTV
 #https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 http://210.210.155.37/uq2663/h/h12/index.m3u8
 
@@ -812,7 +816,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.m
 https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
  
  
-EXTINF:-1 tvg-id="SPOTV - [Channel 102].id" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/6vYd4Vm/Untitled-1-29.png" group-title="SPORT ID", SPOTV
+#EXTINF:-1 tvg-id="SPOTV - [Channel 102].id" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/6vYd4Vm/Untitled-1-29.png" group-title="SPORT ID", SPOTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
