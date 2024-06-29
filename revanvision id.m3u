@@ -177,7 +177,7 @@ https://flv.intechmedia.net/live/ch109.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="RTV" tvg-logo="https://dl.dropboxusercontent.com/s/gw7a9w0miy795vy/rtv.png",RTV(Y") 
+#EXTINF:-1 group-title="NASIONAL" tvg-id="RTV" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png",RTV(Y") 
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch115.m3u8
 
@@ -702,11 +702,11 @@ https://raw.githubusercontent.com/mw997/mwtv/master/videos/no-signal.mp4
 #EXTINF:0 group-title="EURO2024" tvg-logo="https://media1.tenor.com/m/oyPBKjCCMsgAAAAC/euro2024-euro2020.gif",EURO
 https://live.happywatch99.com/live/cnc_news_hp99$!24/playlist.m3u8
 https://live.happywatch99.com/live/ctn_hp99$!24/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media1.tenor.com/m/oyPBKjCCMsgAAAAC/euro2024-euro2020.gif" group-title="EURO2024", EURO 1
-#EXTVLCOPT:http-referrer=https://www.home.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#http://103.127.137.190:80/Sugeng/msY9yqKyrR/7
-#https://www.dropbox.com/scl/fi/0bx2veqkwmlk35n3srxqx/SMPTE-Television-Color-Test-Calibration-Bars-and-1Khz-Sine-Wave-For-1-Hour-720P_HD.mp4?rlkey=9j11pdy2vstxrjs0z1r3mzt7o&dl=1
+
+#EXTINF:-1 tvg-chno="36" tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://media1.tenor.com/m/oyPBKjCCMsgAAAAC/euro2024-euro2020.gif" group-title="EURO2024",PPTV HD (3BBTV)
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 
 #EXTINF:-1 tvg-id="Sportstars 3 HD - [Channel 422].id" tvg-name="Sportstars 3 HD" tvg-logo="https://media1.tenor.com/m/oyPBKjCCMsgAAAAC/euro2024-euro2020.gif" group-title="EURO2024", EURO 2024
@@ -732,10 +732,8 @@ https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
 http://103.237.32.213:9981/stream/channelid/1365658651?profile=pass
 
 
-#EXTINF:-1 tvg-logo="https://media1.tenor.com/m/oyPBKjCCMsgAAAAC/euro2024-euro2020.gif" group-title="EURO2024", EURO 2024 4
-#EXTVLCOPT:http-referrer=https://www.home.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#http://103.127.137.190:80/Sugeng/msY9yqKyrR/211
+#EXTINF:-1 group-title="EURO2024" tvg-id="" tvg-logo="https://media1.tenor.com/m/oyPBKjCCMsgAAAAC/euro2024-euro2020.gif",CCTV 5
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://media1.tenor.com/m/oyPBKjCCMsgAAAAC/euro2024-euro2020.gif" group-title="EURO2024", EURO 2024 5
