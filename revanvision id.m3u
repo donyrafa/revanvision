@@ -666,7 +666,7 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/n
 
 
 #EXTINF:-1 group-title="INDIHOME ID" tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png",TRANSTV(i*) 
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(784e32da-bdac-7794-7122-0989aaf8959e)/manifest.mpd
+https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
 #EXTINF:-1 tvg-id="KOMPAS TV - [Channel 106].id" tvg-name="KOMPAS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/PPmP4ZZL9zYXq23d2ltlo8LYChQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png" group-title="INDIHOME ID",Kompastv(i*) 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -693,7 +693,7 @@ https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
 
 #EXTINF:-1 group-title="INDIHOME ID" tvg-logo="https://i.ibb.co/dPFnbkz/trans7-home-tv.png", TRANS7(i*) 
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bab870e9-ceaa-c720-864e-0cb46a9f5c03)/manifest.mpd
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 =======EURO========
 
