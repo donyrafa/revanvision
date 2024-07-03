@@ -1,6 +1,8 @@
 
 =========NASIONAL=======
 
+======ANTV=========
+
 #EXTINF:-1 tvg-id="AnTV.id" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/202.png" group-title="NASIONAL", ANTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
@@ -17,6 +19,8 @@ https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/14
 #EXTINF:-1 group-title="NASIONAL" tvg-id="ANTEVE.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Antv_lama.png",ANTEVE
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch108.m3u8
+
+=========METROTV==========
 
 #EXTINF:-1 tvg-id="MetroTVHD.id" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/103.png" group-title="NASIONAL", Metro TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -35,6 +39,8 @@ https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/16
 #EXTINF:-1 group-title="NASIONAL" tvg-id="vtv.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/MetroTV_2000.svg/revision/latest/scale-to-width-down/284?cb=20180224092515",METRO(Y) 
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch110.m3u8
+
+========INEWSTV========
 
 #EXTINF:-1 tvg-id="" tvg-name="INEWSTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="NASIONAL", INEWSTV HD
 http://xtv.ooo:8080/live/387546/200900/350973.ts
@@ -85,10 +91,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="NASIONAL", INDOSIAR(H*) 
 #EXTVLCOPT:http-referrer=https://www.home.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36/
-http://xtv.ooo:8080/300033334/4445556667777/350972
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/8
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR HD" tvg-logo="https://yt3.googleusercontent.com/DmXOEDWSKGpiQgbtd4q2v05iSM_H1uUhwJbOIMEGABWOtxikLwXqbgMUFxpZ0ffiqrao2ERwzg=s900-c-k-c0x00ffffff-no-rj" group-title="NASIONAL", INDOSIAR HD
-https://www.goldentvtech.site:443/live/Reva3/Rafasya/25686.ts 
+http://xtv.ooo:8080/300033334/4445556667777/350972 
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR HD" tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="NASIONAL", Indosiar HD
 #https://raw.githubusercontent.com/Arrasyid22/vision-/main/indosiar.m3u8
@@ -107,8 +113,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
+========GTV=========
+
 #EXTINF:-1 tvg-id="" tvg-name="GTV HD" tvg-logo="https://i.ibb.co/gZLhrBt/gtv-home-tv.png" group-title="NASIONAL", GTV HD
-http://xtv.ooo:8080/live/387546/200900/350954.ts
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12
 
 #EXTINF:-1 tvg-id="" tvg-name="GTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="NASIONAL", GTV 
 #http://iptvtree.net:8080/F14995/a84c0963/157578
@@ -121,6 +129,8 @@ http://xtv.ooo:8080/300033334/4445556667777/350954
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://1a-gtv.rctiplus.id/gtv-sdi.mpd
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+==========MNCTV======
 
 #EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://yt3.googleusercontent.com/-AE54L5cpp9fcxOITp66wVcKXTBFNt0gXU-3dDr2icwDkTs4kn5KR40wfxsGUN78kWFbrUYCOA=s900-c-k-c0x00ffffff-no-rj" group-title="NASIONAL", MNCTV(R*)
 #EXTVLCOPT:http-user-agent=android-R+
@@ -135,6 +145,8 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTINF:-1 tvg-id="" tvg-name="MNCTV HD" tvg-logo="https://i.ibb.co/HGkQ2YB/mnctv-home-tv.png" group-title="NASIONAL", MNCTV HD
 #http://iptvtree.net:8080/F14995/a84c0963/165054
 http://xtv.ooo:8080/300033334/4445556667777/350996
+
+=========RCTI========
 
 #EXTINF:-1 tvg-id="" tvg-name="RCTI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RCTI13Tahun.png" group-title="NASIONAL", RCTI HD
 #http://iptvtree.net:8080/F14995/a84c0963/157591
@@ -158,6 +170,7 @@ http://103.237.32.213:9981/stream/channelid/1365658651?profile=pass
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti 
 
+=========TVONE======
 #EXTINF:-1 tvg-id="TVOne.id" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/143.png" group-title="NASIONAL", TVONE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
@@ -176,6 +189,8 @@ http://xtv.ooo:8080/live/387546/200900/351044.ts
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch109.m3u8
 
+==========RTV=========
+
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.pinimg.com/736x/f6/8c/73/f68c732ecd4ca383e603fcd6c3f99a57.jpg", Rtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
@@ -184,19 +199,23 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch115.m3u8
 
-
+==========KOMPASTV======
 #EXTINF:-1 tvg-id="kompasHD.id" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/123.png" group-title="NASIONAL", Kompas TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 https://atemecdnbalancer-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="vtv.id" tvg-logo="https://yt3.googleusercontent.com/WT_vtVAFTyfuayLRGp7dX1vrbsUW4UMir5c2ABZg-xnCdmF7hJS14swFNHnk1ERTanS81ORc=s900-c-k-c0x00ffffff-no-rj",VTV 
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:0 group-title="NASIONAL" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nThF1smJvY1aW_ttFLtCNanbz1e1Yg5XFhJ084qzuN810=s900-c-k-c0x00ffffff-no-rj", Kompastv(D*)
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="vtv.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Kompas_TV_%282011%29_logo_with_slogan.svg/revision/latest/scale-to-width-down/1200?cb=20190630061508",Kompastv(Y*) 
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch102.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="vtv.id" tvg-logo="https://yt3.googleusercontent.com/WT_vtVAFTyfuayLRGp7dX1vrbsUW4UMir5c2ABZg-xnCdmF7hJS14swFNHnk1ERTanS81ORc=s900-c-k-c0x00ffffff-no-rj",VTV 
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
+
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/148.png" group-title="NASIONAL", TVRI Nasional
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -217,8 +236,6 @@ https://flv.intechmedia.net/live/ch103.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
 
-#EXTINF:0 group-title="NASIONAL" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nThF1smJvY1aW_ttFLtCNanbz1e1Yg5XFhJ084qzuN810=s900-c-k-c0x00ffffff-no-rj", Kompastv(D*)
-http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
 #EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://btv.id/img/btv-livestream.webp" group-title="NASIONAL", BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
@@ -230,7 +247,7 @@ https://flv.intechmedia.net/live/ch113.m3u8
 
 #EXTINF:-1 tvg-id="GARUDA TV" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1600px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png",GARUDATV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
-
+========TRANSTV=======
 
 #EXTINF:-1 tvg-id="TRANSTV - [Channel 78].id" tvg-name="TRANSTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="NASIONAL", TRANSTV 
 #EXTVLCOPT:http-referrer=https://www.detik.com/
@@ -240,7 +257,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 EXTINF:-1 tvg-id="TRANSTV" group-title="NASIONAL" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nrUk9Ljy-IvE8guwLy0hu8T8n97SeLs8Y7O8nMmMgh-2w=s900-c-k-c0x00ffffff-no-rj",TRANSTV2
 http://xtv.ooo:8080/live/387546/200900/351041.ts
 
-
+=======TRANS7===========
 #EXTINF:-1 tvg-id="TRANS7 - [Channel 78].id" tvg-name="TRANS7" tvg-logo="https://yt3.googleusercontent.com/9P6JZKyUn1UwfS6ma-0tHH6YHdLbpH5jFUTUPONgWYuHxWLFOkylLP-9xWVZK0N2bp70HYY9Qw=s900-c-k-c0x00ffffff-no-rj" group-title="NASIONAL", TRANS7 
 #EXTVLCOPT:http-referrer=https://www.detik.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -261,6 +278,7 @@ http://xtv.ooo:8080/300033334/4445556667777/351040
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/6
 
+=========NETTV=======
 
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-name="Net." tvg-logo="https://i.ibb.co/4FZRKkn/net.png" group-title="NASIONAL", NET. (i)#EXTVLCOPT:http-referrer=https://maxstream.tv/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=8a37645a92b03dcaab0e4e6b21a440ef:6ee84789d2b341c875eddae90e9fda04 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(51f16000-8c78-4e72-8052-7dec807e81c2)/manifest.mpd 
 
@@ -274,6 +292,7 @@ https://flv.intechmedia.net/live/ch114.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CNN_Indonesia_logo_%282023%29.svg/200px-CNN_Indonesia_logo_%282023%29.svg.png" group-title="NASIONAL",CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
 
+==========MOJI=======
 #EXTINF:-1 group-title="NASIONAL" tvg-id="vtv.id" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png",moji(H*) 
 #EXTVLCOPT:http-user-agent=hometv/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https
@@ -757,7 +776,7 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MOJI" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="SPORT ID", MOJI
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/04
 #http://premiumiptvmk.com:8080//live/e9cd5f24/079fd2c9/298550.ts
-http://xtv.ooo:8080/387546/200900/350997
+#http://xtv.ooo:8080/387546/200900/350997
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="SPORT ID", INDOSIAR HD
 #http://108.181.132.217:8070/e9cd5f24/079fd2c9/162138
@@ -766,8 +785,6 @@ http://xtv.ooo:8080/387546/200900/350972
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-sports-ph.png" group-title="SPORT ID",ONE SPORT+
 http://mohdtv.com:8880/voby4887/64694938/66827
-
-
 
 #EXTINF:-1 tvg-id="Fight Sports - [Channel 102].id" tvg-name="Fight Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="SPORT ID", Fight Sports
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1162,74 +1179,60 @@ https://6953b888.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcH
 https://d2uty8832jppwn.cloudfront.net/out/v1/d0b6763e1b4d4b71869601bfb6ded8da/index.mpd?aws.manifestfilter=audio_language:eng;video_codec:h264;video_height:0-1080
 
 
-
-
-
-
 ============= NASIONAL DIGITAL========================
 
 
 #EXTINF:0 tvg-id="RCTI - [Channel 430].id" tvg-name="RCTI - [Channel 80].id" tvg-logo="https://cdn.okezone.com/underwood/img/tv/streaming/rcti.png" group-title="NASIONAL DIGITAL" tvg-chno="5",RCTI
-http://103.237.32.213:9981/stream/channelid/1365658651?profile=pass
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/10|user-agent=Mozilla/5.0
 
 #EXTINF:0 tvg-id="MNCTV - [Channel 432]" tvg-name="MNCTV - [Channel 82].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/1200px-MNCTV_logo.png" group-title="NASIONAL DIGITAL" tvg-chno="6",MNC TV
-http://103.237.32.213:9981/stream/channelid/1397747788?profile=pass
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/11|user-agent=Mozilla/5.0
 
 #EXTINF:0 tvg-id="GTV - [Channel 431].id" tvg-name="GTV - [Channel 81].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="NASIONAL DIGITAL" tvg-chno="7",GTV
-http://103.237.32.213:9981/stream/channelid/60098242?profile=pass
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12|user-agent=Mozilla/5.0
 
 #EXTINF:0 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNews HD - [Channel 433].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="NASIONAL DIGITAL" tvg-chno="8",iNews
-http://103.237.32.213:9981/stream/channelid/577841529?profile=pass
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/32|user-agent=Mozilla/5.0
 
 #EXTINF:0 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png" group-title="NASIONAL DIGITAL" tvg-chno="9",SCTV
-http://103.237.32.213:9981/stream/channelid/2075096037?profile=pass
-
-#EXTINF:0, tvg-id="Mentari TV" tvg-name="Mentari TV" group-title="NASIONAL DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mentari_TV.png/200px-Mentari_TV.png" tvg-chno="10", Mentari TV
-http://103.237.32.213:9981/stream/channelid/1253294058?profile=pass
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9|user-agent=Mozilla/5.0
 
 #EXTINF:0 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png" group-title="NASIONAL DIGITAL" tvg-chno="11",Indosiar
-http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/8|user-agent=Mozilla/5.0
 
 #EXTINF:0, tvg-id="Moji" tvg-name="Moji" group-title="NASIONAL DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" tvg-chno="12",MOJI 
-http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/117|user-agent=Mozilla/5.0
 
 #EXTINF:0 tvg-id="Trans TV - [Channel 87].id" tvg-name="Trans TV - [Channel 87].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="NASIONAL DIGITAL" tvg-chno="13",Trans TV
-http://103.237.32.213:9981/stream/channelid/882492283?profile=pass
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/7|user-agent=Mozilla/5.0
+https
 
-#EXTINF:0 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans 7 - [Channel 110].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="NASIONAL DIGITAL" tvg-chno="14",Trans 7 
-http://103.237.32.213:9981/stream/channelid/882492283?profile=pass
+#EXTINF:0 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans 7 - [Channel 110].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="NASIONAL DIGITAL" tvg-chno="14",Trans 7
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/6|user-agent=Mozilla/5.0
+https
 
 #EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV - [Channel 115].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="NASIONAL DIGITAL" tvg-chno="17",ANTV
-http://103.237.32.213:9981/stream/channelid/787526729?profile=pass
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/14|user-agent=Mozilla/5.0
+https
 
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="tvOne - [Channel 97].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/200px-TvOne_2023.svg.png" group-title="NASIONAL DIGITAL" tvg-chno="18",tvOne
-http://103.237.32.213:9981/stream/channelid/303387948?profile=pass
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/13|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="VTV" tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VTV_Indonesia_2023.svg/800px-VTV_Indonesia_2023.svg.png" group-title="NASIONAL DIGITAL" tvg-chno="20",VTV
 http://103.237.32.213:9981/stream/channelid/757539105?profile=pass
 
 #EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-name="Metro TV - [Channel 107].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/1920px-LogoMetroTVsince2010.svg.png" group-title="NASIONAL DIGITAL" tvg-chno="21",Metro TV
-http://103.237.32.213:9981/stream/channelid/1475621416?profile=pass
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/16|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="CNN Indonesia" tvg-name="CNN Indonesia" tvg-logo="https://pbs.twimg.com/profile_images/669793728970682369/CaHHKPMc_400x400.png" group-title="NASIONAL DIGITAL" ,CNN Indonesia
-http://103.237.32.213:9981/stream/channelid/226992202?profile=pass
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1841569157_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="CNBC Indonesia" tvg-name="CNBC Indonesia" tvg-logo="https://pbs.twimg.com/profile_images/1268802866568806401/nqL8otRC_400x400.jpg" group-title="NASIONAL DIGITAL" ,CNBC Indonesia
-http://103.237.32.213:9981/stream/channelid/2050623964?profile=pass
-
-#EXTINF:0 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Logo_nusantaratv.png/220px-Logo_nusantaratv.png" group-title="NASIONAL DIGITAL" tvg-chno="32",Nusantara TV 
-http://103.237.32.213:9981/stream/channelid/1256118101?profile=pass
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/220px-TVRIWorld.png" group-title="NASIONAL DIGITAL" tvg-chno="3",TVRI World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://103.237.32.213:9981/stream/channelid/2087137957?profile=pass
-
-#EXTINF:0 tvg-id="TVRISport.id"  tvg-name="TVRI Sport" tvg-logo="http://www.dens.tv/images/channel-logo/118.jpg" group-title="NASIONAL DIGITAL" tvg-chno="4",TVRI Sport 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://103.237.32.213:9981/stream/channelid/455417035?profile=pass
-
-
-
 
 ========TV DAERAH===========
 
